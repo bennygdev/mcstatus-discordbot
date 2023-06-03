@@ -10,7 +10,7 @@ CLIENT_ID = BOT ID
 ```
 <br>
 Make sure to run the command file first to initalise the slash commands first before running the index file. Also make sure to replace the 3 const variables with your information. Below for reference:
-<br>
+
 ```
 const serverIP = "YOUR SERVER IP";
 const serverPort = YOUR SERVER PORT;
