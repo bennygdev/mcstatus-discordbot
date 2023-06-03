@@ -16,4 +16,3 @@ const serverIP = "YOUR SERVER IP";
 const serverPort = YOUR SERVER PORT;
 const minecraftUsername = "YOUR MINECRAFT USERNAME";
 ```
-<br>
